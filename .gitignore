@@ -1,15 +1,6 @@
-# Build results
 bin/
 obj/
-
-# Visual Studio / VS Code
-.vs/
-.vscode/
-
-# User-specific files
 *.user
 *.suo
+*.vscode/
 
-# OS files
-.DS_Store
-Thumbs.db
